@@ -1,7 +1,7 @@
 # smmpanel_aura_theme
 SmmPanel AuraTheme
 
-
+https://primepanel.net
 
 https://smm-aura-theme-site-demo.primepanel.dev/
 demo user name : demo
