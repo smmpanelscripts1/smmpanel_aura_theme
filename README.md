@@ -4,6 +4,8 @@ SmmPanel AuraTheme
 
 
 https://smm-aura-theme-site-demo.primepanel.dev/
+demo user name : demo
+demo password : primepanel
 
 <img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/3231e8ac-f665-41c7-9f45-7de5ce202cef" />
 <img width="1916" height="922" alt="image" src="https://github.com/user-attachments/assets/752c40e3-1e57-4e9f-afe5-cd32fad4e560" />
